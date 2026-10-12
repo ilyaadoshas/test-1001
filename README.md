@@ -7,6 +7,7 @@
  - [ ] Rich
  - [x] Poor
 
-'''python 
-print("hi") 
-'''
+```python 
+print("hi")
+```
+
