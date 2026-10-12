@@ -1,7 +1,12 @@
-Ilya test
-- ali
-- reza
-- ahmad
+# First
+ - Ilya Adosha
+ - Danial Mahdvian (With destroyed footbal team)
+ - Amir Hoseine Khojaste
 
-- [ ] ts
-- [x] tst
+ - [x] Programers
+ - [ ] Rich
+ - [x] Poor
+
+'''python 
+print("hi") 
+'''
