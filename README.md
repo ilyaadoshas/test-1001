@@ -14,6 +14,6 @@ to print a message in python you need to use `print` function.
 ### Example
 ```python
 import math
-k = math.sqrt(14)
+k = math.sqrt(16)
 print(k)
 ```
